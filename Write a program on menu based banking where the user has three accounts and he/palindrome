@@ -1,0 +1,7 @@
+def cheack_palindrome(Number):
+    return str(Number) == Number[::-1]
+		
+input_string = input()
+
+result = cheack_palindrome(input_string)
+print(result)
