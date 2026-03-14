@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Vivek Tyagi
 
-<!--
-**vivektyagi05/vivektyagi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student at GLA University, Mathura  
+💻 Passionate about Software Development, AI Projects and Problem Solving  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- Python
+- C
+- Django
+- HTML, CSS, JavaScript
+- Flutter (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Full Stack Development
+- AI Based Systems
+
+## 🔥 Projects
+- AI Productivity Monitoring System  
+- Digital Risk Manager (PDRM)  
+- Modern Python Calculator  
+- Bank Account System in Java  
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vivek-tyagi-03941a349/
+- LeetCode: https://leetcode.com/u/vivek_tyagi007/
