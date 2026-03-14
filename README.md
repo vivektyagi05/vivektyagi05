@@ -4,7 +4,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektyagi05&label=Profile%20views&color=0e75b6&style=flat" alt="vivektyagi05" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivektyagi05" alt="vivektyagi05" /></a> </p> -->
-
+<br><br>
+<br><br>
 - 🔭 I’m currently working on **Django Based Backend Systems & REST API Projects**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Advanced Java and Backend Optimization**
