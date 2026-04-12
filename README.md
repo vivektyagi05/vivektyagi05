@@ -5,13 +5,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivektyagi05" alt="vivektyagi05" /></a> </p> -->
 <br><br>
-- 🔭 I’m currently working on **Django Based Backend Systems & REST API Projects**
+- 🔭 I’m currently working on **Spring-Boot Backend Systems & REST API Projects**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Advanced Java and Backend Optimization**
 
 - 👯 I’m looking to collaborate on **Backend Development and Open Source Projects**
 
-- 🤝 I’m looking for help with **System Design & Scalable Backend Architecture**
+- 🤝 I’m looking for help with **Scalable Backend Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivektyagi05](https://github.com/vivektyagi05)
 
