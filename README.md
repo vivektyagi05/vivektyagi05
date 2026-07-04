@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Tyagi</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A passionate Softwar Developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektyagi05&label=Profile%20views&color=0e75b6&style=flat" alt="vivektyagi05" /> </p> -->
 
