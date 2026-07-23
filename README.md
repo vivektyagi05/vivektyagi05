@@ -37,9 +37,7 @@
 ## 🚀 About Me
 
 ```text
-Backend-focused Software Engineering student passionate about
-building scalable applications and understanding how production
-software works behind the scenes.
+Backend-focused Software Engineering student passionate about building scalable web applications, designing clean system architectures, and understanding how production software works behind the scenes. I enjoy solving real-world problems through full-stack development while continuously improving my skills in backend engineering, system design, and cloud-native technologies.
 ```
 
 - 🔭 Building **Production-Oriented Projects**
@@ -171,7 +169,7 @@ Explore all repositories and ongoing work.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/thelegendofvive1">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank">
 </a>
 
