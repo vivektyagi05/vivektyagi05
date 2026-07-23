@@ -95,7 +95,7 @@ Hospital Management System built with modern backend architecture.
 
 **Tech:** React • Node.js • MongoDB • JWT
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/vivektyagi05/MediCore-HMS">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -108,7 +108,7 @@ AI-powered story generation platform with Django.
 
 **Tech:** Python • Django • JavaScript
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/vivektyagi05/Ai_Generator">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -116,7 +116,7 @@ AI-powered story generation platform with Django.
 </tr>
 
 <tr>
-<td width="50%">
+<!-- <td width="50%">
 
 ### 📊 PlacementOS
 Applicant Tracking & Placement Management Platform.
@@ -127,7 +127,7 @@ Applicant Tracking & Placement Management Platform.
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
-</td>
+</td> -->
 
 <td width="50%">
 
