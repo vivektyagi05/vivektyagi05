@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Vivek Tyagi
+# Hi 👋 I'm Vivek Kumar
 
 ### Backend Developer • Software Engineering Student • Java Enthusiast
 
@@ -232,9 +232,6 @@ Explore all repositories and ongoing work.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=MediCore-HMS&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="https://github.com/vivektyagi05/StoryBookGenerator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=StoryBookGenerator&theme=github_dark&hide_border=true"/>
-</a>
 
 </p>
 
@@ -246,25 +243,6 @@ Explore all repositories and ongoing work.
 
 </p>
 
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/vivek_tyagi007">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/your_username">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://github.com/vivektyagi05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
 
 ---
 
