@@ -230,7 +230,7 @@ Explore all repositories and ongoing work.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=MediCore-HMS&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="https://github.com/vivektyagi05/AI-Face-Attendance">
+<a href="https://github.com/vivektyagi05/SmartAttend-AI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=AI-Face-Attendance&theme=github_dark&hide_border=true"/>
 </a>
 
