@@ -222,12 +222,16 @@ Explore all repositories and ongoing work.
 
 ---
 
-## 🚀 Featured Repository
+## 🚀 Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/vivektyagi05/MediCore-HMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=MediCore-HMS&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=MediCore-HMS&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/vivektyagi05/AI-Face-Attendance">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=AI-Face-Attendance&theme=github_dark&hide_border=true"/>
 </a>
 
 </p>
@@ -235,7 +239,8 @@ Explore all repositories and ongoing work.
 <p align="center">
 
 <a href="https://github.com/vivektyagi05">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
