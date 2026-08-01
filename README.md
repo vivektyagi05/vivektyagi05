@@ -47,25 +47,25 @@
 
 **[MediCore HMS](https://github.com/vivektyagi05/MediCore-HMS)** — Hospital management platform for doctor, patient, and appointment workflows.
 
-Centralizes admin/doctor/patient operations behind one role-aware system instead of siloed manual records. Layered Express backend (controllers → services → middleware) over MongoDB, React + Vite frontend, JWT auth with RBAC.
+Centralizes admin/doctor/patient operations behind one role-aware system instead of siloed manual records. Layered Express backend (controllers → services → middleware) over MongoDB, React + Vite frontend, JWT authentication with role-based access control.
 
-`React` `Vite` `Tailwind` `Express` `MongoDB` `JWT` — **v0.1.0-alpha, active development, MIT**
-
----
-
-**[AI Generator](https://github.com/vivektyagi05/Ai_Generator)** — Django app serving LLaMA 3.1 responses via the GROQ API.
-
-Wraps a raw LLM API in a deployable product: OTP email verification (Resend API), session auth, chat history, and cloud deployment — not just an API demo. Deployed on Render with Gunicorn.
-
-`Python` `Django` `GROQ API` `Resend API` — **Live demo, MIT**
+`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` — **v0.1.0-alpha · Active Development · MIT**
 
 ---
 
-**[SmartAttend](https://github.com/vivektyagi05/SmartAttend-AI)** — Academic administration platform for teachers, students, classes, and timetables.
+**[AI Generator](https://github.com/vivektyagi05/Ai_Generator)** — AI-powered Django application using the GROQ API.
 
-Replaces manual academic record-keeping with a centralized, role-based system; a dedicated AI microservice is scaffolded for future face-recognition attendance but not yet implemented. React + Vite frontend, Express/Node REST API, MongoDB, Docker Compose.
+Transforms raw LLM APIs into a complete web application with user authentication, OTP email verification, chat history, and cloud deployment. Powered by LLaMA 3.1 through the GROQ API and deployed with Gunicorn on Render.
 
-`React` `Node.js` `Express` `MongoDB` `Docker` `JWT` — **v1.0.0-beta, MIT**
+`Python` `Django` `GROQ API` `Resend API` `Gunicorn` — **Live Demo · MIT**
+
+---
+
+**[AI Academia CRM](https://github.com/vivektyagi05/ai-academia-crm)** — Production-oriented Academic CRM for educational institutions.
+
+Designed to streamline student lifecycle management, faculty administration, course management, attendance, scheduling, and role-based access through a centralized platform. Built with a modular Express.js backend, React + Vite frontend, MongoDB, JWT authentication, and Docker Compose, providing a scalable foundation for future AI-powered automation and analytics.
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `Docker` — **v1.0.0-beta · MIT**
 
 <br>
 
@@ -79,3 +79,16 @@ Replaces manual academic record-keeping with a centralized, role-based system; a
 
 ```text
 Java  →  Spring Boot  →  System Design  →  Microservices  →  DSA (ongoing)
+
+---
+
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+⭐ If you like my work, consider following my journey.
+
+<img src="https://komarev.com/ghpvc/?username=vivektyagi05&label=Visitors&color=0e75b6&style=flat" alt="Visitors"/>
+
+</div>
