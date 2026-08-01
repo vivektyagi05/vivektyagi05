@@ -7,7 +7,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vivektyagi05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-tyagi007)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/vivek_tyagi007)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/thelegendofvive1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thelegendofvivek0001@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=vivektyagi05&label=Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
@@ -73,15 +72,15 @@ Designed to streamline student lifecycle management, faculty administration, cou
 
 `Backend Architecture` `REST API Design` `Authentication & RBAC` `Layered/Service Architecture` `Containerization` `Documentation-Driven Development`
 
-<br>
+---
 
 ## Learning Roadmap
 
 ```text
-Java  →  Spring Boot  →  System Design  →  Microservices  →  DSA (ongoing)
+Java  →  Spring Boot  →  System Design  →  Microservices  →  DSA (Ongoing)
+```
 
 ---
-
 
 <div align="center">
 
