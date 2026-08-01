@@ -36,9 +36,9 @@
 
 ## 🚀 About Me
 
-```text
+
 Backend-focused Software Engineering student passionate about building scalable web applications, designing clean system architectures, and understanding how production software works behind the scenes. I enjoy solving real-world problems through full-stack development while continuously improving my skills in backend engineering, system design, and cloud-native technologies.
-```
+
 
 - 🔭 Building **Production-Oriented Projects**
 - 🌱 Learning **Spring Boot • System Design • Docker**
