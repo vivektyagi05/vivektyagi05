@@ -2,97 +2,258 @@
 
 # Vivek Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=560&lines=Backend+Developer+%7C+Django+%2F+Node.js;Building+role-based%2C+production-shaped+systems;Moving+toward+Java%2C+Spring+Boot+%26+System+Design" alt="Typing SVG" />
+### Backend Developer • Software Engineering Student
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vivektyagi05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-tyagi007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/vivek_tyagi007)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/thelegendofvive1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thelegendofvivek0001@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=vivektyagi05&label=Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Backend+Developer;Building+Production-Style+Applications;Learning+Java+%7C+Spring+Boot+%7C+System+Design;Always+Building.+Always+Learning." alt="Typing SVG"/>
+
+<p>
+  <a href="https://github.com/vivektyagi05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/vivek-tyagi007">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/vivek_tyagi007">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/thelegendofvive1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+
+  <a href="mailto:thelegendofvivek0001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=vivektyagi05&label=Profile%20Views&color=0E75B6&style=flat"/>
 
 </div>
 
-<br>
+---
 
-## Snapshot
+# 👨‍💻 About Me
+
+I'm a **Backend-focused Software Engineering student** from **India** who enjoys building production-style applications rather than tutorial projects.
+
+My primary interest is understanding how scalable backend systems are designed—from REST APIs and authentication to clean architecture and deployment.
+
+Currently I'm transitioning toward **Java, Spring Boot, System Design, Docker, and scalable backend engineering** while continuing to improve my existing Django and Node.js projects.
+
+---
+
+# 🚀 Snapshot
 
 | | |
-|---|---|
-| **Role** | Backend Developer · Software Engineering Student |
-| **Specialization** | REST APIs, role-based auth, layered backend architecture |
-| **Currently learning** | Java · Spring Boot · System Design · Microservices |
-| **Current focus** | Stabilizing production-shaped backends before adding scope |
-| **Location** | India |
+|:---|:---|
+| 🎓 Education | B.Tech Computer Science Engineering |
+| 💼 Role | Backend Developer |
+| 🌍 Location | India |
+| 🎯 Goal | Software Engineer (Product-Based Company) |
+| 📚 Currently Learning | Java • Spring Boot • System Design • Docker |
+| ❤️ Interests | Backend Engineering • APIs • System Design • Clean Architecture |
 
-<br>
+---
 
-## Stack
+# 💻 Tech Stack
 
-**Demonstrated in shipped repositories:**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,tailwind,vite,mongodb,docker,git,github,postman,linux&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
 
-`REST APIs` `JWT Auth` `RBAC` `Mongoose` `Docker Compose` `Gunicorn` `Resend API` `GROQ API`
+### Backend
 
-**Learning — not yet used in a shipped project:**
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,spring" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+### Frontend
 
-`System Design` `Microservices` `DSA`
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
 
-<br>
+### Database
 
-## Projects
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
 
-**[MediCore HMS](https://github.com/vivektyagi05/MediCore-HMS)** — Hospital management platform for doctor, patient, and appointment workflows.
-Centralizes admin/doctor/patient operations behind one role-aware system instead of siloed manual records. Layered Express backend (controllers → services → middleware) over MongoDB, React + Vite frontend, JWT auth with RBAC.
-`React` `Vite` `Tailwind` `Express` `MongoDB` `JWT` — **v0.1.0-alpha, active development, MIT**
+### DevOps & Tools
 
-**[AI Generator](https://github.com/vivektyagi05/Ai_Generator)** — Django app serving LLaMA 3.1 responses via the GROQ API.
-Wraps a raw LLM API in a deployable product: OTP email verification (Resend API), session auth, chat history, and cloud deployment — not just an API demo. Deployed on Render with Gunicorn.
-`Python` `Django` `GROQ API` `Resend API` — **Live demo, MIT**
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux" />
+</p>
 
-**[SmartAttend](https://github.com/vivektyagi05/SmartAttend-AI)** — Academic administration platform for teachers, students, classes, and timetables.
-Replaces manual academic record-keeping with a centralized, role-based system; a dedicated AI microservice is scaffolded for future face-recognition attendance but not yet implemented. React + Vite frontend, Express/Node REST API, MongoDB, Docker Compose.
-`React` `Node.js` `Express` `MongoDB` `Docker` `JWT` — **v1.0.0-beta, MIT**
+### Backend Concepts
 
-<br>
+`REST API`
 
-## Engineering Focus
+`JWT Authentication`
 
-`Backend Architecture` `REST API Design` `Authentication & RBAC` `Layered/Service Architecture` `Containerization` `Documentation-Driven Development`
+`RBAC`
 
-<br>
+`Role-Based Access Control`
 
-## Learning Roadmap
+`Service Layer`
 
-```
-Java  →  Spring Boot  →  System Design  →  Microservices  →  DSA (ongoing)
-```
+`MVC`
 
-<br>
+`Docker Compose`
 
-## Analytics
+`MongoDB`
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vivektyagi05&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivektyagi05&layout=compact&theme=github_dark&hide_border=true" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivektyagi05&theme=github-dark&hide_border=true" />
-</div>
+`Express Middleware`
 
-<br>
+---
 
-## Philosophy
+# 📌 Current Focus
 
-- Mark features *stable*, *architecture-ready*, or *planned* — never overstated.
-- Business logic lives in service layers, not controllers.
-- Every multi-user project ships with JWT auth and role-based access by default.
-- Document architecture decisions alongside the code, not after it.
+- Java Programming
+- Spring Boot
+- Backend Engineering
+- REST API Design
+- System Design
+- Docker
+- Microservices Fundamentals
+- Data Structures & Algorithms
+- Production Software Development
 
-<br>
+---
 
-<div align="center">
-<sub>Open to backend engineering roles and collaboration on production-style projects.</sub>
-</div>
+# 🚀 Featured Projects
+
+## 🏥 MediCore HMS
+
+**Hospital Management Platform**
+
+A production-oriented hospital management system designed with modular backend architecture.
+
+### Highlights
+
+- JWT Authentication
+- Role-Based Access Control
+- Doctor Management
+- Patient Management
+- Appointment Workflow
+- REST APIs
+- Layered Backend Architecture
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`JWT`
+
+🔗 Repository
+
+https://github.com/vivektyagi05/MediCore-HMS
+
+---
+
+## 🤖 AI Story Generator
+
+AI-powered Django application that generates responses using **LLaMA 3.1 (GROQ API)**.
+
+### Highlights
+
+- User Authentication
+- OTP Verification
+- AI Chat
+- Session Management
+- Cloud Deployment
+- Production-ready Backend
+
+**Tech Stack**
+
+`Python`
+
+`Django`
+
+`GROQ API`
+
+`Resend API`
+
+🔗 Repository
+
+https://github.com/vivektyagi05/Ai_Generator
+
+🌐 Live Demo
+
+https://ai-generator-k573.onrender.com
+
+---
+
+## 🎓 SmartAttend AI
+
+Academic Management Platform designed for teachers, students, classrooms and attendance workflows.
+
+### Highlights
+
+- Authentication
+- Role Management
+- Docker Compose
+- REST APIs
+- MongoDB
+- AI Attendance Service (Planned)
+
+**Tech Stack**
+
+`React`
+
+`Node.js`
+
+`Express`
+
+`MongoDB`
+
+`Docker`
+
+🔗 Repository
+
+https://github.com/vivektyagi05/SmartAttend-AI
+
+---
+
+# 🧠 Engineering Interests
+
+- Backend Engineering
+- Clean Architecture
+- REST API Design
+- Authentication & Authorization
+- System Design
+- Docker
+- Microservices
+- Open Source
+- Production Software
+
+---
+
+# 📖 Learning Roadmap
+
+```text
+Java
+   │
+   ▼
+Spring Boot
+   │
+   ▼
+REST APIs
+   │
+   ▼
+System Design
+   │
+   ▼
+Docker
+   │
+   ▼
+Microservices
+   │
+   ▼
+Cloud Engineering
