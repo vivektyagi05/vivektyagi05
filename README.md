@@ -154,34 +154,6 @@ Explore all repositories and ongoing work.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vivektyagi05&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vivektyagi05&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivektyagi05&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivektyagi05&theme=github-dark&hide_border=true&area=true"/>
-
-</p>
-
----
-
 ## 💡 Philosophy
 
 > *"Build software that solves real problems, write code that others can understand, and never stop learning."*
