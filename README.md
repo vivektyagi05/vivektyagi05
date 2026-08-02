@@ -11,7 +11,6 @@
 </p>
 
 <p>
-
 <a href="https://github.com/vivektyagi05">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
@@ -27,7 +26,6 @@
 <a href="https://leetcode.com/vivek_tyagi007">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
 </a>
-
 </p>
 
 </div>
@@ -36,13 +34,11 @@
 
 ## 🚀 About Me
 
+Backend-focused Software Engineering student passionate about building scalable web applications, clean APIs, and reliable backend systems. I enjoy turning ideas into production-ready solutions while continuously improving my problem-solving, system design, and software engineering skills.
 
-Backend-focused Software Engineering student passionate about building scalable web applications, designing clean system architectures, and understanding how production software works behind the scenes. I enjoy solving real-world problems through full-stack development while continuously improving my skills in backend engineering, system design, and cloud-native technologies.
-
-
-- 🔭 Building **Production-Oriented Projects**
-- 🌱 Learning **Spring Boot • System Design • Docker**
-- 💬 Ask me about **Java • Python • React • REST APIs**
+- 🔭 Building **production-oriented projects**
+- 🌱 Exploring **Java, Spring Boot, and backend architecture**
+- 💬 Ask me about **Java, Python, React, REST APIs**
 - 📫 Reach me at **thelegendofvivek0001@gmail.com**
 - 📍 India 🇮🇳
 
@@ -51,33 +47,28 @@ Backend-focused Software Engineering student passionate about building scalable 
 ## 💻 Tech Stack
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" />
 </p>
 
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 </p>
 
 ### Database
-
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
 ---
@@ -89,7 +80,7 @@ Backend-focused Software Engineering student passionate about building scalable 
 <td width="50%">
 
 ### 🏥 MediCore HMS
-Hospital Management System built with modern backend architecture.
+Hospital Management System designed with modern backend architecture and clean user experience.
 
 **Tech:** React • Node.js • MongoDB • JWT
 
@@ -102,7 +93,7 @@ Hospital Management System built with modern backend architecture.
 <td width="50%">
 
 ### 📚 AI Story Generator
-AI-powered story generation platform with Django.
+AI-powered story generation platform built with Django and JavaScript.
 
 **Tech:** Python • Django • JavaScript
 
@@ -114,23 +105,9 @@ AI-powered story generation platform with Django.
 </tr>
 
 <tr>
-<!-- <td width="50%">
-
-### 📊 PlacementOS
-Applicant Tracking & Placement Management Platform.
-
-**Tech:** Airtable • Automation • APIs
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td> -->
-
 <td width="50%">
 
 ### 🤖 More Projects
-
 Explore all repositories and ongoing work.
 
 <a href="https://github.com/vivektyagi05?tab=repositories">
@@ -143,40 +120,24 @@ Explore all repositories and ongoing work.
 
 ---
 
-## 🎯 Current Focus
-
-- ☕ Java & Spring Boot
-- ⚡ Backend Engineering
-- 🏗️ System Design
-- 📚 Data Structures & Algorithms
-- 🐳 Docker
-- 🤝 Open Source
-
----
-
 ## 🏆 Certifications
 
-- ✅ HackerRank – Python (Basic)
-- ✅ HackerRank – Frontend Developer (React)
+- **CodeAlpha** — Certificate of Completion, Java Programming Virtual Internship Program, 5th February 2026, ID: CA/DF1/17278.
+- **IIT Jodhpur** — Certificate of Participation, Offline Round of Capture the Flag (CTF), via Unstop.
+- **IIT (BHU) Varanasi** — Certificate of Participation, CodeFest'26 CTF Event.
 
 ---
 
 ## 💻 Coding Profiles
 
 <p>
-
 <a href="https://leetcode.com/vivek_tyagi007">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
 </a>
 
-<a href="https://www.hackerrank.com/thelegendofvive1">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank">
-</a>
-
-<a href="https://github.com/vivektyagi05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
+<span>
+<img src="https://img.shields.io/badge/Problems_Solved-300%2B-0e75b6?style=for-the-badge">
+</span>
 </p>
 
 ---
@@ -187,7 +148,6 @@ Explore all repositories and ongoing work.
 ✓ Advanced Java
 ✓ Spring Boot
 ✓ System Design
-✓ Docker
 ✓ Backend Architecture
 ✓ Production Software Development
 ```
@@ -222,28 +182,18 @@ Explore all repositories and ongoing work.
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Philosophy
 
-<p align="center">
-
-<a href="https://github.com/vivektyagi05/MediCore-HMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=MediCore-HMS&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/vivektyagi05/SmartAttend-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vivektyagi05&repo=AI-Face-Attendance&theme=github_dark&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/vivektyagi05">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
-
+> *"Build software that solves real problems, write code that others can understand, and never stop learning."*
 
 ---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+⭐ If you like my work, consider following my journey.
+
+<img src="https://komarev.com/ghpvc/?username=vivektyagi05&label=Visitors&color=0e75b6&style=flat"/>
+
+</div>
