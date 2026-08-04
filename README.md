@@ -44,79 +44,106 @@ Backend-focused Software Engineering student passionate about building scalable 
 
 ---
 
-## 💻 Tech Stack
+## Technical Foundation
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+### Production Experience
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,vite,mongodb,docker,git,github,linux,postman&theme=dark"/>
 </p>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" />
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
-</p>
+Technologies actively used across production-style repositories.
 
 ---
 
-## 🚀 Featured Projects
+### Currently Learning
 
-<table>
-<tr>
-<td width="50%">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark"/>
+</p>
+
+Expanding into Java backend development, Spring Boot, System Design, Microservices, and advanced Data Structures & Algorithms.
+
+---
+
+### Engineering Practices
+
+`REST APIs`
+`JWT Authentication`
+`Role-Based Access Control`
+`Layered Architecture`
+`Service Layer`
+`Docker Compose`
+`Documentation-Driven Development`
+`Git Workflow`
+
+---
+
+## Featured Work
 
 ### 🏥 MediCore HMS
-Hospital Management System designed with modern backend architecture and clean user experience.
 
-**Tech:** React • Node.js • MongoDB • JWT
+Production-oriented Hospital Management System focused on scalable backend architecture, secure authentication, appointment workflows, and role-based administration.
 
-<a href="https://github.com/vivektyagi05/MediCore-HMS">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-</a>
+**Highlights**
 
-</td>
+- Modular Express.js backend
+- JWT Authentication
+- RBAC
+- REST APIs
+- MongoDB
+- React + Vite frontend
 
-<td width="50%">
+**Repository**
 
-### 📚 AI Story Generator
-AI-powered story generation platform built with Django and JavaScript.
+https://github.com/vivektyagi05/MediCore-HMS
 
-**Tech:** Python • Django • JavaScript
+---
 
-<a href="https://github.com/vivektyagi05/Ai_Generator">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-</a>
+### 🎓 AI Academia CRM
 
-</td>
-</tr>
+Production-ready Academic CRM built to streamline student lifecycle management, faculty administration, course scheduling, attendance, and institutional workflows through a centralized platform.
 
-<tr>
-<td width="50%">
+**Highlights**
 
-### 🤖 More Projects
-Explore all repositories and ongoing work.
+- Academic CRM
+- JWT Authentication
+- Role-Based Access
+- Docker Compose
+- React + Vite
+- MongoDB
+
+**Repository**
+
+https://github.com/vivektyagi05/ai-academia-crm
+
+---
+
+### 🤖 SmartAttend AI
+
+Smart academic management platform designed for attendance, classroom management, and AI-assisted institutional workflows.
+
+**Highlights**
+
+- Academic Management
+- Docker Architecture
+- REST APIs
+- MongoDB
+- AI-ready Architecture
+
+**Repository**
+
+https://github.com/vivektyagi05/SmartAttend-AI
+
+## Explore More
+
+Interested in seeing more?
+
+Browse my complete collection of backend applications, experiments, and ongoing engineering projects.
 
 <a href="https://github.com/vivektyagi05?tab=repositories">
-<img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -145,8 +172,8 @@ Explore all repositories and ongoing work.
 ## 📖 Currently Learning
 
 ```text
-✓ Advanced Java
-✓ Spring Boot
+✓ Java
+✓ DSA
 ✓ System Design
 ✓ Backend Architecture
 ✓ Production Software Development
