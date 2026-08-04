@@ -54,7 +54,6 @@ Backend-focused Software Engineering student passionate about building scalable 
 
 Technologies actively used across production-style repositories.
 
----
 
 ### Currently Learning
 
@@ -64,7 +63,6 @@ Technologies actively used across production-style repositories.
 
 Expanding into Java backend development, Spring Boot, System Design, Microservices, and advanced Data Structures & Algorithms.
 
----
 
 ### Engineering Practices
 
@@ -98,8 +96,6 @@ Production-oriented Hospital Management System focused on scalable backend archi
 
 https://github.com/vivektyagi05/MediCore-HMS
 
----
-
 ### 🎓 AI Academia CRM
 
 Production-ready Academic CRM built to streamline student lifecycle management, faculty administration, course scheduling, attendance, and institutional workflows through a centralized platform.
@@ -117,7 +113,6 @@ Production-ready Academic CRM built to streamline student lifecycle management, 
 
 https://github.com/vivektyagi05/ai-academia-crm
 
----
 
 ### 🤖 SmartAttend AI
 
@@ -134,6 +129,8 @@ Smart academic management platform designed for attendance, classroom management
 **Repository**
 
 https://github.com/vivektyagi05/SmartAttend-AI
+
+---
 
 ## Explore More
 
