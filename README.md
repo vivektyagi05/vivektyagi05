@@ -64,7 +64,7 @@ Technologies actively used across production-style repositories.
 Expanding into Java backend development, Spring Boot, System Design, Microservices, and advanced Data Structures & Algorithms.
 
 
-### Engineering Practices
+### Working 
 
 `REST APIs`
 `JWT Authentication`
@@ -81,16 +81,10 @@ Expanding into Java backend development, Spring Boot, System Design, Microservic
 
 ### 🏥 MediCore HMS
 
-Production-oriented Hospital Management System focused on scalable backend architecture, secure authentication, appointment workflows, and role-based administration.
+Modern Hospital Management Platform focused on building a scalable, modular, and maintainable healthcare management system through an engineering-first development approach.
 
-**Highlights**
+The project centralizes patient, doctor, appointment, and administrative workflows using a layered Express.js backend, React + Vite frontend, MongoDB, and JWT-based authentication. Development follows an incremental workflow that prioritizes architecture, documentation, validation, and long-term maintainability before expanding into AI, realtime communication, and financial services.
 
-- Modular Express.js backend
-- JWT Authentication
-- RBAC
-- REST APIs
-- MongoDB
-- React + Vite frontend
 
 **Repository**
 
@@ -98,16 +92,9 @@ https://github.com/vivektyagi05/MediCore-HMS
 
 ### 🎓 AI Academia CRM
 
-Production-ready Academic CRM built to streamline student lifecycle management, faculty administration, course scheduling, attendance, and institutional workflows through a centralized platform.
+Enterprise CRM for managing academic partnerships, institutional pipelines, meetings, documents, reporting, and AI-assisted workflows.
 
-**Highlights**
-
-- Academic CRM
-- JWT Authentication
-- Role-Based Access
-- Docker Compose
-- React + Vite
-- MongoDB
+Designed for organizations collaborating with colleges and universities through internships, placement drives, workshops, certification programs, and long-term academic partnerships. Built on a modular React, Express.js, and MongoDB architecture with REST APIs and an extensible AI provider layer supporting Gemini, OpenAI, Claude, and mock providers.
 
 **Repository**
 
@@ -116,15 +103,9 @@ https://github.com/vivektyagi05/ai-academia-crm
 
 ### 🤖 SmartAttend AI
 
-Smart academic management platform designed for attendance, classroom management, and AI-assisted institutional workflows.
+AI-powered attendance management platform for educational institutions, designed to centralize student, teacher, class, timetable, and attendance workflows through a modern full-stack architecture.
 
-**Highlights**
-
-- Academic Management
-- Docker Architecture
-- REST APIs
-- MongoDB
-- AI-ready Architecture
+Built with a modular React + Express.js architecture, MongoDB, JWT authentication, Docker Compose, and a dedicated AI service prepared for future face-recognition attendance automation. The project emphasizes secure authentication, role-based access control, scalable backend design, and maintainable engineering practices.
 
 **Repository**
 
