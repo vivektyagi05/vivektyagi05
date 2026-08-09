@@ -61,7 +61,7 @@ Technologies actively used across production-style repositories.
 <img src="https://skillicons.dev/icons?i=java,spring&theme=dark"/>
 </p>
 
-Expanding into Java backend development, Spring Boot, System Design, Microservices, and advanced Data Structures & Algorithms.
+Expanding into backend development, System Design, Microservices, and advanced Data Structures & Algorithms.
 
 
 ### Working 
@@ -71,7 +71,7 @@ Expanding into Java backend development, Spring Boot, System Design, Microservic
 `Role-Based Access Control`
 `Layered Architecture`
 `Service Layer`
-`Docker Compose`
+`System Design`
 `Documentation-Driven Development`
 `Git Workflow`
 
