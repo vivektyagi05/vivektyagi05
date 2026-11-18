@@ -145,12 +145,6 @@ I focus on understanding:
 
 I use coding platforms mainly as a way to practice and improve my thinking.
 
-### LeetCode
-
-450+ problems solved
-
-https://leetcode.com/vivek_tyagi007
-
 ---
 
 ## Certifications
